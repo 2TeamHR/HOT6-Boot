@@ -23,4 +23,4 @@ The Teck Titan 프로젝트는 해당 내용들을 보완하기 위해 사이드
 논리/물리 모델링 : https://www.erdcloud.com/d/TLCCtvJwLf8xR5r5f
 
 ### 기능 정리 PDF 파일
-[Uploading TheTeckTitan PPT.pdf…]()
+https://www.notion.so/coffit23/62aedc36a1d641c7aa85af18877b6a4d
